@@ -56,7 +56,7 @@
     <spring.cloud.starter.alibaba.nacos.discovery.version>0.2.2.RELEASE</spring.cloud.starter.alibaba.nacos.discovery.version>
 
     <java.chassis.version>1.2.1</java.chassis.version>
-    <akka.version>2.5.14</akka.version>
+    <akka.version>2.6.5</akka.version>
     <alpakka.version>1.0.5</alpakka.version>
     <leveldbjni-all.version>1.8</leveldbjni-all.version>
     <akka-persistence-redis.version>0.4.0</akka-persistence-redis.version>
