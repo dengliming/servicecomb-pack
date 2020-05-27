@@ -65,7 +65,7 @@
     <grpc.version>1.22.0</grpc.version>
     <kryo.version>4.0.1</kryo.version>
     <javax.transaction.version>1.2</javax.transaction.version>
-    <eclipse.link.version>2.7.1</eclipse.link.version>
+    <eclipse.link.version>2.7.6</eclipse.link.version>
     <jackson.version>2.9.0</jackson.version>
     <byteman.version>4.0.1</byteman.version>
     <jaxb.version>2.3.0</jaxb.version>
